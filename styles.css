@@ -1,0 +1,51 @@
+.entirecard {
+    width: 300px;
+    border-color: #808080;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    background-color: #d3d3d3;
+    box-shadow: 10px 10px 5px #c0c0c0
+}
+
+.name {
+    font-family: "Alegreya", serif;
+    margin-bottom: 15px;
+    border-color: #808080;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.image1 {
+    width: 300px;
+    border-color: #808080;
+    border-style: solid;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.fact {
+    font-style: italic;
+}
+
+.items {
+    font-weight: bold;
+}
+
+.information {
+    width: 300px;
+    border: 1px solid #808080;
+    border-radius: 5px;
+    padding:2px 10px;
+    box-sizing: border-box;
+}
+
+.item-marker {
+    list-style-type: none;
+}
